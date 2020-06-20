@@ -19,7 +19,6 @@ if __name__ == "__main__":
             text = example
     else:
         text = example
-        reactions = parse_reactions(text)
 
     reactions = parse_reactions(text)
 
